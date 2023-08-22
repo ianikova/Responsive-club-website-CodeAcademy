@@ -1,2 +1,2 @@
-# codeacademy-responsive-club-website
+# Responsive club website
 Responsive Club Website for CodeAcademy
